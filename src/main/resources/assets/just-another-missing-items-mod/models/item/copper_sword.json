@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "just-another-missing-items-mod:item/copper_sword"
+  }
+}
